@@ -1,3 +1,4 @@
+# Customer Retention Dashboard Using Microsoft Power BI
 The churn dataset is provided in .xlsx format by the client who is a Retention Manager from a big telecom company. The task was to build a dashboard in Microsoft Power BI about customer retention. 
 This project basically includes 2 dashboards as mentioned-
 1) Churn Dashboard- which includes:
